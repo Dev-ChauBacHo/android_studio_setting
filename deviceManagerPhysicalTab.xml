@@ -1,0 +1,28 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R58MC348A0K" />
+          </Key>
+        </key>
+        <name value="samsung SM-A515F" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-R58MC348A0K-1eZku7._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="samsung SM-A515F" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
